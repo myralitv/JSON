@@ -1,0 +1,24 @@
+#JSON Task
+
+#Name, Surname, Gender
+{
+	"value": "Мирослав Литвиненко",
+	"data": {
+		"name": "Мирослав",
+		"surname": "Литвиненко",
+		"gender": "male",
+	}
+
+
+
+#Office position
+{
+	"value": "QA/Ops Engineer / Technical Support",
+	"data": {
+		"position_1": "QA/Ops Engineer",
+		"position_2": "Technical Support",
+	}
+
+
+#Age
+{ "query":"Age", "count":25}
