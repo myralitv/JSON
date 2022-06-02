@@ -3,7 +3,7 @@
 #Components of a bug report
 [
   {
-	  "value": "Bug ID",
+    "value": "Bug ID",
 	    "data": {
         "component_1": "ID number",
         "component_2": "Name",
@@ -45,7 +45,7 @@
       }
   }
   {
-		"value": "Notes",
+    "value": "Notes",
     "component": "Notes"
   }
 ]
