@@ -1,1 +1,51 @@
+#JSON Task
 
+#Components of a bug report
+[
+  {
+	  "value": "Bug ID",
+	    "data": {
+        "component_1": "ID number",
+        "component_2": "Name",
+        "component_3": "Reporter",
+        "component_4": "Submit Date",
+      }
+  }
+  {
+    "value": "Bug Overview",
+	    "data": {
+        "component_1": "Summary",
+        "component_2": "URL",
+        "component_3": "Screenshot (Attachments)",
+      }
+  }
+  {
+    "value": "Bug Enviroment",
+	    "data": {
+        "component_1": "Platform",
+        "component_2": "Operating System",
+        "component_3": "Browser",
+      }
+  }
+  {
+    "value": "Bug Details",
+	    "data": {
+        "component_1": "Steps to reproduce",
+        "component_2": "Expected result",
+        "component_3": "Actual result",
+        "component_4": "Description",
+      }
+  }
+  {
+    "value": "Bug Tracking",
+	    "data": {
+        "component_1": "Severity",
+        "component_2": "Assignet to",
+        "component_3": "Priority",
+      }
+  }
+  {
+		"value": "Notes",
+    "component": "Notes"
+  }
+]
