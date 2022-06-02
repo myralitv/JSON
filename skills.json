@@ -1,0 +1,14 @@
+#JSON Task
+
+#What skills we learned
+{
+	"value": "skills",
+	"data": {
+		"skill_1": "Bash",
+		"skill_2": "GIT",
+		"skill_3": "Communication",
+		"skill_4": "Mentoring",
+		"skill_5": "Postman",
+		"skill_6": "Teory of QA",
+		"skill_7": "JS",
+	}

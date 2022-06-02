@@ -1,0 +1,21 @@
+#JSON Task
+
+#Favourite book
+{ 
+	"query": "Favourite book", 
+	"data": {
+		"title": "Ivanhoe",
+		"autor": "Walter Scott",
+	}
+
+#Favourite serial
+{ "query":"Favourite serial", "title":"The Fringe"}
+
+#Favourite food
+{ "query":"Favourite food", "title":"Street-food"}
+
+#Favourite season
+{ "query":"Favourite season", "title":"Summer"}
+
+#Favourite country
+{ "query":"Favourite country", "title":"Portugal"}
